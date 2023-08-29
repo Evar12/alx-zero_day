@@ -1,1 +1,1 @@
-this is a non empty read me
+This is a non-empty read-me file.
